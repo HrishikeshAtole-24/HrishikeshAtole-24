@@ -83,7 +83,8 @@
 <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
 <img src="https://img.shields.io/badge/Juspay-FF6B35?style=flat-square&logo=payment&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/PCI_DSS-00AA44?style=flat-square&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/PayU-00C853?style=flat-square&logo=payu&logoColor=white" alt="PayU Badge"/>
+<img src="https://img.shields.io/badge/N--Genius-0033A0?style=flat-square&logo=networkinternational&logoColor=white" alt="N-Genius Badge"/>
 <img src="https://img.shields.io/badge/8+-Payment_Gateways-0066CC?style=flat-square&logo=gateway&logoColor=white" />
 </p>
 
