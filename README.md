@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Engineer | MERN & MEAN Stack Developer | Crafting Scalable Fintech Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Software+Engineer+at+Vernost+Tech+Ventures;Full+Stack+Developer;Java+%7C+Spring+%7C+React+%7C+Node.js;Working+In+Building+Scalable+Payment+Solutions;8%2B+Payment+Gateways+Integrated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Software+Engineer+at+Vernost+Tech+Ventures;Full+Stack+Developer;Java+%7C+Spring+%7C+React+%7C+Node.js;Building+Scalable+Payment+Solutions;8%2B+Payment+Gateways+Integrated" alt="Typing SVG" />
 </p>
 
 <!-- Cool coding boy GIF -->
